@@ -74,25 +74,25 @@ h2 {
 
 .item1 {
    max-width: 200px;
-   background-image: url(img/phone.svg);
+   background-image: url(../img/phone.svg);
    background-repeat: no-repeat;
 }
 
 .item2 {
    max-width: 200px;
-   background-image: url(img/mail.svg);
+   background-image: url(../img/mail.svg);
    background-repeat: no-repeat;
 }
 
 .item3 {
    max-width: 200px;
-   background-image: url(img/telegram.svg);
+   background-image: url(../img/telegram.svg);
    background-repeat: no-repeat;
 }
 
 .item4 {
    max-width: 200px;
-   background-image: url(img/viber.svg);
+   background-image: url(../img/viber.svg);
    background-repeat: no-repeat;
 }
 
